@@ -2,7 +2,7 @@ Hi, I'm Senali Vihanga 👋
 
 🎓 ICT Undergraduate at General Sir John Kotelawala Defence University (KDU)
 
-🌐 Interested in Networking, System Administration, Cybersecurity, IoT, and Mobile Application Development.
+🌐 Interested in Networking, System Administration, Cybersecurity, IoT, Mobile Application Development , Software Engineering and Web development.
 
 💡 Passionate about learning new technologies and building practical projects that solve real-world problems.
 
@@ -23,6 +23,7 @@ Programming & Development
 - CSS
 - JavaScript
 - Java
+- Laravel
 
 Networking & Cybersecurity
 - Cisco Packet Tracer
@@ -63,6 +64,8 @@ University event management platform developed as a group project to improve eve
 
 📈 Career Interests
 
+- Software Engineering
+- Web Developing
 - Networking
 - System Administration
 - Cybersecurity
